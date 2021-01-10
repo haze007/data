@@ -1,8 +1,16 @@
 {
 	"painting": [
 		{
+			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
+			"@type": "Painting"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
 			"name": "Carwash",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"@type": "Painting"
 		},
 		{
@@ -18,16 +26,6 @@
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
 			"name": "Web Coffe Marilyn",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
-			"name": "Web 3 Jules",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
 			"@type": "Painting"
 		}
 	]
